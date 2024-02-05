@@ -1,0 +1,73 @@
+.heater {
+    background-color:rgba(1, 64, 91, 0.742);
+    padding-bottom: 2%;
+    border-radius: 7px;
+}
+  .heating {
+    padding-left: 45%;
+    padding-top: 3%;
+    color: white;
+  }
+  .content{
+    width: 25%;
+    background-color:dimgrey;
+    height: 70vh;
+    border-radius: 10px;
+    float: left;
+  }
+
+  .content1 {
+    width: 23%;
+    background-color:dimgrey;
+    height: 30vh;
+    border-radius: 10px;
+    float: right;
+    margin-left: 2%;
+  }
+
+  .content2 {
+    width: 23%;
+    background-color: dimgrey;
+    height: 30vh;
+    border-radius: 10px;
+    float: right;
+    margin-left: 2%;
+  }
+
+  .content3 {
+    width: 23%;
+    background-color: dimgrey;
+    height: 30vh;
+    border-radius: 10px;
+    float: right;
+  }
+
+  .sr {
+    border-radius: 7px;
+    background: dimgrey;
+    padding-left: 50%;
+    padding-right: 60%;
+    padding-top: 1%;
+  
+  }
+
+  .center {
+    padding-left: 40%;
+    padding-right: 20%;
+  }
+
+  .search {
+    padding-left: 95%;
+    padding-right: 100%;
+
+  }
+  body {
+    background:rgba(148, 222, 247, 0.375);
+  }
+  .footer{
+   margin-top: 35%;
+   background-color: dimgrey;
+   height:10vh;
+   border-radius: 7px;
+         
+  }
